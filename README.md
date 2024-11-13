@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/kayode96max" target="blank"><img src="https://img.shields.io/twitter/follow/kayode96max?logo=twitter&style=for-the-badge" alt="kayode96max" /></a> </p>
 
+[![An image of @kayode96max's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kayode96max)](https://holopin.io/@kayode96max)
+
 - 🔭 I’m currently working on [ACTIV-B](https://activ-b-sui.vercel.app)
 
 - 🌱 I’m currently learning **JavaScript,React, Vite**
