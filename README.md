@@ -9,6 +9,8 @@
 
 [![An image of @kayode96max's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kayode96max)](https://holopin.io/@kayode96max)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68399bf37cc0cdc9896a956b?variant=dark)](https://roadmap.sh)
+
 - 🔭 I’m currently working on [ACTIV-B](https://activ-b-sui.vercel.app)
 
 - 🌱 I’m currently learning **JavaScript,React, Vite**
