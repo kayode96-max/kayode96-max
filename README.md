@@ -1,40 +1,23 @@
-# Hi 👋, I'm Usman Abdullahi Olukayode
+# Hi, I'm Usman 👋
 
-### A passionate frontend developer from Nigeria🇳🇬. Interested and passionate about community building and Open-source contribution 🧑🏼‍💻
+I'm a Materials & Metallurgical Engineering student at FUT Minna, based in Lagos, Nigeria. I build frontend and AI products, and I organise developer events.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayode96-max&label=Profile views&color=0e75b6&style=flat" alt="kayode96-max" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kayode96-max&label=Profile views&color=0e75b6&style=flat" alt="Profile views for kayode96-max" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayode96-max" alt="kayode96-max" /></a> </p>
+- 🛠️ Building **[SignPen](https://github.com/kayode96-max/Signpen_V2)**: a digital yearbook where classmates sign a rotatable 3D T-shirt, with an AI sentiment summary (Next.js 15 · Supabase · Three.js) → [signpen.xyz](https://signpen.xyz)
+- 🌾 **[Agropal](https://github.com/kayode96-max/agropal_3mtt)**: a crop assistant for Nigerian farmers in English, Yoruba, Hausa, Igbo and Pidgin (Next.js · Genkit)
+- 🤝 12 merged PRs to the **[Dexmail frontend](https://github.com/DexMailer/dexmail-frontend)** · Hacktoberfest 2026 Completionist++
+- 🎤 Lead organiser, Gemini HackDay '26 (76 participants) · Host, Hacktoberfest Hack Day Minna 2026 (5 communities, 9 projects)
+- 🧪 Engineering side: porous ceramic water filters from local clay and rice husk; six years rewinding electric motors
 
-<p align="left"> <a href="https://twitter.com/Kayode96max" target="blank"><img src="https://img.shields.io/twitter/follow/Kayode96max?logo=twitter&style=for-the-badge" alt="Kayode96max" /></a> </p>
+### Tools I actually use
 
-- 🔭 I'm currently working on **https://github.com/kayode96-max/nammesng-draft**
+TypeScript · JavaScript · React · Next.js · Tailwind CSS · Supabase · Firebase · Node.js/Express · MongoDB · Prisma · Three.js · Genkit / Google GenAI · Vitest · Playwright · Git · Vercel · Solidity/Hardhat (Base) · MATLAB
 
-- 🌱 I'm currently learning **React and Typescript**
+<p align="left"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,supabase,firebase,nodejs,express,mongodb,prisma,threejs,vitest,git,vercel,solidity,matlab&perline=9" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Supabase, Firebase, Node.js, Express, MongoDB, Prisma, Three.js, Vitest, Git, Vercel, Solidity, MATLAB" /></p>
 
-- 👯 I'm looking to collaborate on **Open-source projects **
+### Find me
 
-- 💬 Ask me about **React, Git, Node.js**
-
-- 📫 How to reach me **olukayodeusman406@gmail.com**
-
-- ⚡ Fun fact **⚡ Fun fact I love board games and always available to test and collaborate**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/kayode96-max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kayode96-max" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Kayode96max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kayode96max" height="30" width="40" /></a>
-<a href="https://instagram.com/Kayode96max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kayode96max" height="30" width="40" /></a>
-<a href="https://twitter.com/Kayode96max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kayode96max" height="30" width="40" /></a>
-<a href="https://discord.gg/Kayode96_max " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kayode96_max " height="30" width="40" /></a>
-</p>
+[GitHub](https://github.com/kayode96-max) · [Portfolio](https://abdullahiusman.tech) · [LinkedIn](https://linkedin.com/in/kayode96max) · [X](https://x.com/Kayode96max) · [olukayodeusman406@gmail.com](mailto:olukayodeusman406@gmail.com)
 
 [![An image of @kayode96max's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kayode96max)](https://holopin.io/@kayode96max)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayode96-max&show_icons=true&locale=en&layout=compact" alt="kayode96-max" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kayode96-max&show_icons=true&locale=en" alt="kayode96-max" /></p>
-
